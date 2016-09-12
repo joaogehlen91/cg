@@ -1,0 +1,7 @@
+* comando para instalar freeglut3:
+	sudo apt-get install freeglut3 freeglut3-dev
+
+
+* comando para compilar:
+	g++ -Wall quadrado.cpp -o quadrado -lglut -lGL -lGLU -lm
+
