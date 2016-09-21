@@ -5,3 +5,7 @@
 * comando para compilar:
 	g++ -Wall quadrado.cpp -o quadrado -lglut -lGL -lGLU -lm
 
+* colocar as operaçõs inversas à que quer que aconteça
+
+
+http://www.inf.pucrs.br/~manssour/OpenGL/Desenhando.html
